@@ -1,0 +1,12 @@
+:root {
+    --vp-c-brand: #119c53;
+    --vp-c-brand-1: #119c53;
+    --vp-c-brand-2: #119c53;
+    --vp-c-brand-light: #26ba69;
+    --vp-c-brand-dark: #119c53;
+    --vp-c-brand-darker: #0f7c47;
+}
+
+.VPImage {
+    border-radius: 12px;
+}
